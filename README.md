@@ -18,7 +18,7 @@ Currently, I'm strengthening my Python fundamentals through hands-on projects wh
 
 A file-based transaction validation and financial reporting tool featuring duplicate detection, customer analysis, and automated report generation.
 
-*Repository link coming soon.*
+[View Transaction Auditor on GitHub](https://github.com/Saikat703/Transaction-Auditor)
 
 ### Currently Learning
 - Python problem-solving and software development
