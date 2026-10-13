@@ -22,6 +22,14 @@ A file-based transaction validation and financial reporting tool featuring dupli
 
 ### Currently Learning
 - Python problem-solving and software development
+
+- ## Technical Writing
+
+### My First Python Project
+
+I documented how a Python practice question evolved into my first GitHub project, including the challenges I encountered and the lessons I learned.
+
+**Read my article:** [How a Python Practice Question Became My First GitHub Project](https://dev.to/saikatcodes/how-a-python-practice-question-became-my-first-github-project-5gp4)
 - Writing reliable and maintainable code
 - Building practical applications
 
