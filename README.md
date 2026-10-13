@@ -23,7 +23,7 @@ A file-based transaction validation and financial reporting tool featuring dupli
 ### Currently Learning
 - Python problem-solving and software development
 
-- ## Technical Writing
+## Technical Writing
 
 ### My First Python Project
 
