@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Saikat!
 
-<!--
-**Saikat703/Saikat703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Developer | Aspiring AI Engineer | Tech Entrepreneur in the Making
 
-Here are some ideas to get you started:
+I'm passionate about programming, problem-solving, and building practical software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm strengthening my Python fundamentals through hands-on projects while exploring the possibilities of artificial intelligence and business automation.
+
+### Technical Skills
+- **Languages:** Python, Java
+- **Python:** Functions, Recursion, File I/O, Data Structures
+- **Tools:** VS Code, GitHub
+- **Interests:** AI, Software Development, Business Automation
+
+### Featured Project
+
+**Transaction Auditor — Python**
+
+A file-based transaction validation and financial reporting tool featuring duplicate detection, customer analysis, and automated report generation.
+
+*Repository link coming soon.*
+
+### Currently Learning
+- Python problem-solving and software development
+- Writing reliable and maintainable code
+- Building practical applications
+
+### My Vision
+
+To build innovative technology products that solve real-world problems through software, AI, and automation.
+
+---
+
+*Learning. Building. Improving.*
